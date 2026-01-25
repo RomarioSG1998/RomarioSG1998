@@ -14,6 +14,22 @@
 
 ---
 
+## 🚀 Published Work
+
+<div align="center">
+
+### 🌐 Live Projects
+
+[![Database Modeling Platform](https://img.shields.io/badge/🗄️_Database_Modeling-Live-success?style=for-the-badge)](https://my-own-database-modeling-platform.vercel.app)
+[![SintaxJavaApp](https://img.shields.io/badge/📚_SintaxJavaApp-Portfolio-blue?style=for-the-badge)](https://github.com/RomarioSG1998/apresentacao_pedagogia)
+
+**Database Modeling Platform** - Custom tool for creating and exporting database schemas  
+**SintaxJavaApp** - Portfolio of 9 interactive educational projects
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 I'm a **Commercial Software Engineering** student at [@jalaUniversity](https://github.com/jalasoft), passionate about **technology** and **education**, with interest in **Artificial Intelligence** and **Computer Vision**. I also work as a teacher, creating solutions that combine technology and pedagogy.
