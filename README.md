@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🎓 Professor | 💻 Full-Stack Developer | 🤖 AI & Computer Vision Specialist
+### 🎓 Professor | 💻 Full-Stack Developer | 🤖 Desenvolvedor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rg1606694@gmail.com)
@@ -14,9 +14,9 @@
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor apaixonado por **tecnologia** e **educação**, com expertise em **Inteligência Artificial**, **Visão Computacional** e **Álgebra Linear Aplicada**. Atualmente trabalho na [@jalaUniversity](https://github.com/jalasoft) criando soluções inovadoras que unem IA e pedagogia.
+Sou um desenvolvedor apaixonado por **tecnologia** e **educação**, com interesse em **Inteligência Artificial** e **Visão Computacional**. Atualmente trabalho na [@jalaUniversity](https://github.com/jalasoft) criando soluções que unem tecnologia e pedagogia.
 
-💡 **Minha missão:** Transformar a educação através da tecnologia, criando ferramentas que potencializam o aprendizado e o engajamento estudantil.
+💡 **Minha missão:** Usar a tecnologia para melhorar a educação, criando ferramentas que ajudam no aprendizado e engajamento estudantil.
 
 ---
 
