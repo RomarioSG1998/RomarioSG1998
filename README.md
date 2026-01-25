@@ -21,7 +21,7 @@
 ### 🌐 Live Projects
 
 [![Database Modeling Platform](https://img.shields.io/badge/🗄️_Database_Modeling-Live-success?style=for-the-badge)](https://my-own-database-modeling-platform.vercel.app)
-[![SintaxJavaApp](https://img.shields.io/badge/📚_SintaxJavaApp-Portfolio-blue?style=for-the-badge)](https://github.com/RomarioSG1998/apresentacao_pedagogia)
+[![SintaxJavaApp](https://img.shields.io/badge/📚_SintaxJavaApp-Portfolio-blue?style=for-the-badge)](https://romariosg1998.github.io/apresentacao_pedagogia/)
 
 **Database Modeling Platform** - Custom tool for creating and exporting database schemas  
 **SintaxJavaApp** - Portfolio of 9 interactive educational projects
