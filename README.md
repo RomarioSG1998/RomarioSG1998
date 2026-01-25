@@ -200,7 +200,7 @@ I'm always open to discuss:
 <div align="center">
 
 ### 💼 Open to opportunities in:
-**AI/ML Engineering** | **Full-Stack Development** | **EdTech Solutions** | **Research & Development**
+**Internships** | **Full-Stack Development** | **EdTech Projects** | **Junior Developer Roles**
 
 ---
 
