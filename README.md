@@ -22,6 +22,9 @@
 
 [![Database Modeling Platform](https://img.shields.io/badge/🗄️_Database_Modeling-Live-success?style=for-the-badge)](https://my-own-database-modeling-platform.vercel.app)
 [![SintaxJavaApp](https://img.shields.io/badge/📚_SintaxJavaApp-Portfolio-blue?style=for-the-badge)](https://romariosg1998.github.io/apresentacao_pedagogia/)
+[![PIBID Net Uneal](https://img.shields.io/badge/🎓_PIBID_Net_Uneal-Live-success?style=for-the-badge)](https://pibid-net-uneal.vercel.app/)
+[![Sede do Saber](https://img.shields.io/badge/📖_Sede_do_Saber-Live-orange?style=for-the-badge)](https://sededosaber.infinityfreeapp.com/)
+[![The Strange Secret](https://img.shields.io/badge/��_The_Strange_Secret-Live-purple?style=for-the-badge)](https://thestrangesecret.vercel.app/)
 
 **Database Modeling Platform** - Custom tool for creating and exporting database schemas  
 **SintaxJavaApp** - Portfolio of 9 interactive educational projects
