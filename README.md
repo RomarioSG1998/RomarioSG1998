@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor apaixonado por **tecnologia** e **educação**, com interesse em **Inteligência Artificial** e **Visão Computacional**. Atualmente trabalho na [@jalaUniversity](https://github.com/jalasoft) criando soluções que unem tecnologia e pedagogia.
+Sou estudante de **Engenharia de Software Comercial** na [@jalaUniversity](https://github.com/jalasoft), apaixonado por **tecnologia** e **educação**, com interesse em **Inteligência Artificial** e **Visão Computacional**. Também atuo como professor, criando soluções que unem tecnologia e pedagogia.
 
 💡 **Minha missão:** Usar a tecnologia para melhorar a educação, criando ferramentas que ajudam no aprendizado e engajamento estudantil.
 
