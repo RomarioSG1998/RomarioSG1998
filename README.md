@@ -114,6 +114,17 @@ Custom database modeling platform
 
 ---
 
+## 📚 Skills & Interests
+
+- **Full-Stack Development:** React, TypeScript, FastAPI, Node.js
+- **Computer Vision:** Working with MediaPipe and OpenCV
+- **Educational Technology:** Creating tools for teaching and learning
+- **Databases:** PostgreSQL, MySQL, Supabase
+- **Payment Systems:** Stripe, Hotmart integration
+- **Mathematics:** Applying Linear Algebra in projects
+
+---
+
 
 ## 📈 GitHub Stats
 
