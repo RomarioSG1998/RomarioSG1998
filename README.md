@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### 🌐 Live Projects
+### 🌐 Live Projects <img src="https://media.giphy.com/media/WOT95CvxldxEWDIdPf/giphy.gif" width="30">
 
 [![Database Modeling Platform](https://img.shields.io/badge/🗄️_Database_Modeling-Live-success?style=for-the-badge)](https://my-own-database-modeling-platform.vercel.app)
 [![SintaxJavaApp](https://img.shields.io/badge/📚_SintaxJavaApp-Portfolio-blue?style=for-the-badge)](https://romariosg1998.github.io/apresentacao_pedagogia/)
