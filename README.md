@@ -172,7 +172,7 @@ mindmap
 - ✅ AI system in production (VisioClass)
 - ✅ Cross-platform desktop applications
 - ✅ Educational platforms with active users
-- ✅ Payment integration (Stripe) in production
+- ✅ Payment integration (Stripe & Hotmart) in production
 - ✅ Contributions to education via PIBID
 
 ---
