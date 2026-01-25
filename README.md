@@ -114,34 +114,6 @@ Custom database modeling platform
 
 ---
 
-## 📊 Areas of Expertise
-
-```mermaid
-mindmap
-  root((Romário<br/>Galdino))
-    AI & ML
-      Computer Vision
-      MediaPipe
-      OpenCV
-      PCA Analysis
-    Full-Stack
-      React/TypeScript
-      FastAPI/Python
-      WebSockets
-      REST APIs
-    Education
-      EdTech Solutions
-      PIBID
-      Teaching Tools
-      Student Engagement
-    Mathematics
-      Linear Algebra
-      Geometry
-      Statistics
-      Data Analysis
-```
-
----
 
 ## 📈 GitHub Stats
 
