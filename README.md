@@ -176,7 +176,6 @@ I'm always open to discuss:
 - 🤖 AI and Computer Vision projects
 - 🎓 Technology in Education
 - 💻 Software Architecture
-- 📊 Applied Mathematics
 - 🚀 Collaboration Opportunities
 
 <div align="center">
