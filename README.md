@@ -162,7 +162,6 @@ mindmap
 - 🔭 Working on **VisioClass** - AI monitoring system
 - 🌱 Deepening knowledge in **Deep Learning** and **Neural Networks**
 - 👯 Looking to collaborate on **EdTech** and **Computer Vision** projects
-- 💬 Ask me about **FastAPI**, **React**, **Computer Vision**, or **Linear Algebra**
 - 📫 How to reach me: **rg1606694@gmail.com**
 
 ---
