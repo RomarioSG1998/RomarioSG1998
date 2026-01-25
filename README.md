@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🎓 Professor | 💻 Student | 🤖 Full-Stack Developer
+### 🎓 Teacher | 💻 Student | 🤖 Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rg1606694@gmail.com)
