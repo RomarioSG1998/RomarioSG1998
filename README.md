@@ -1,8 +1,10 @@
 # 👋 Hi! I'm Romário Galdino
 
 <div align="center">
-  
-### 🎓 Teacher | 💻 Student | 🤖 Full-Stack Developer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Teacher+%7C+Student+%7C+Full-Stack+Developer;Building+EdTech+Solutions;Passionate+about+AI+and+Education)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=RomarioSG1998&color=blueviolet&style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rg1606694@gmail.com)
@@ -14,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **Commercial Software Engineering** student at [@jalaUniversity](https://github.com/jalasoft), passionate about **technology** and **education**, with interest in **Artificial Intelligence** and **Computer Vision**. I also work as a professor, creating solutions that combine technology and pedagogy.
+I'm a **Commercial Software Engineering** student at [@jalaUniversity](https://github.com/jalasoft), passionate about **technology** and **education**, with interest in **Artificial Intelligence** and **Computer Vision**. I also work as a teacher, creating solutions that combine technology and pedagogy.
 
 💡 **My mission:** Use technology to improve education, creating tools that help with learning and student engagement.
 
