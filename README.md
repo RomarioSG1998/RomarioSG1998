@@ -48,7 +48,8 @@ I'm a **Commercial Software Engineering** student at [@jalaUniversity](https://g
 ## 🌟 Featured Project
 
 ### 🎓 [VisioClass](https://github.com/RomarioSG1998) - Student Engagement Monitoring System
-
+> **🚧 Work in Progress** | Developed in collaboration with the **Jala University Team**
+>
 > Intelligent real-time monitoring system using **Computer Vision** and **Linear Algebra**
 
 **🔬 Technologies:**
