@@ -130,10 +130,6 @@ This ongoing migration demonstrates the ability not just to prototype (Legacy), 
 
 ## 💼 Other Projects
 
-### 🌐 EnglishFlix
-Complete English learning platform with integrated payment system
-- **Stack:** TypeScript, Node.js, Stripe API, Supabase
-- **Features:** Subscription system, chat, speaking partner, premium content
 
 ### 🏫 School Management System
 Complete system for tutoring school management
