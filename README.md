@@ -29,7 +29,7 @@
 **Database Modeling Platform** - Custom tool for creating and exporting database schemas  
 **SintaxJavaApp** - Portfolio of 9 interactive educational projects  
 **PIBID Net Uneal** - Academic portal for the Teaching Initiation Scholarship Program  
-**EnglishFlix** - English learning platform with streaming interface  
+**EnglishFlix** - English learning platform with movies, series, songs and AI generated stories (audiobook)  
 **Sede do Saber** - School management system for tutoring centers  
 **The Strange Secret** - My personal platform, to make my life easier
 
