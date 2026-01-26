@@ -31,7 +31,7 @@
 **PIBID Net Uneal** - Academic portal for the Teaching Initiation Scholarship Program  
 **EnglishFlix** - English learning platform with streaming interface  
 **Sede do Saber** - School management system for tutoring centers  
-**The Strange Secret** - Interactive web experience
+**The Strange Secret** - My personal platform, to make my life easier
 
 </div>
 
