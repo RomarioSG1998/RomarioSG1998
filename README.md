@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Teacher+%7C+Student+%7C+Full-Stack+Developer;Building+EdTech+Solutions;Passionate+about+AI+and+Education)](https://git.io/typing-svg)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rg1234654)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rg1606694@gmail.com)
-[![Location](https://img.shields.io/badge/Carneiros-AL,_Brazil-green?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
+
 
 </div>
 
