@@ -179,7 +179,7 @@ Custom database modeling platform
 ## 🎯 What I'm Currently Doing
 
 - 🔭 Working on **VisioClass** - AI monitoring system
-- 🌱 Deepening knowledge in **Deep Learning** and **Neural Networks**
+
 - 👯 Looking to collaborate on **EdTech** and **Computer Vision** projects
 - 📫 How to reach me: **rg1606694@gmail.com**
 
