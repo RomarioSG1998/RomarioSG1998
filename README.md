@@ -74,6 +74,20 @@ I'm a **Commercial Software Engineering** student at [@jalaUniversity](https://g
 
 ---
 
+## 🚀 Recent Engineering Challenge: Legacy to Enterprise Migration
+### 🔄 Project: [EnglishFlix](https://github.com/RomarioSG1998) Refactoring
+*Executing a complete architectural modernization to align with high-standard enterprise patterns.*
+
+| Feature | Legacy Version (Startup MVP) | Modernized Version (Enterprise Grade) |
+| :--- | :--- | :--- |
+| **Backend** | Node.js (Express) | **Java 17 + Spring Boot 3** (Maven) |
+| **Frontend** | Vanilla JS / Basic React | **Angular v21** + Material Design |
+| **Architecture** | Monolithic / Script-based | **Clean Architecture** (Layers) |
+| **Data** | Supabase (direct) | **PostgreSQL (Docker)** + JPA/Hibernate |
+
+**💡 Why this matters:**
+This ongoing migration demonstrates the ability not just to prototype (Legacy), but to **engineer robust, scalable, and maintainable software** suitable for large-scale environments (Modernized).
+
 ## 🛠️ Tech Stack
 
 ### Languages
