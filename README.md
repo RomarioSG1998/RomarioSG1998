@@ -27,7 +27,11 @@
 [![The Strange Secret](https://img.shields.io/badge/��_The_Strange_Secret-Live-purple?style=for-the-badge)](https://thestrangesecret.vercel.app/)
 
 **Database Modeling Platform** - Custom tool for creating and exporting database schemas  
-**SintaxJavaApp** - Portfolio of 9 interactive educational projects
+**SintaxJavaApp** - Portfolio of 9 interactive educational projects  
+**PIBID Net Uneal** - Academic portal for the Teaching Initiation Scholarship Program  
+**EnglishFlix** - English learning platform with streaming interface  
+**Sede do Saber** - School management system for tutoring centers  
+**The Strange Secret** - Interactive web experience
 
 </div>
 
