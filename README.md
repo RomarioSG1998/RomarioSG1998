@@ -39,7 +39,7 @@
 
 ## 🚀 About Me
 
-I'm a **Commercial Software Engineering** student at [@jalaUniversity](https://github.com/jalasoft), passionate about **technology** and **education**, with interest in **Artificial Intelligence** and **Computer Vision**. I also work as a teacher, creating solutions that combine technology and pedagogy.
+I'm a **Commercial Software Engineering** student at [@jalaUniversity](https://github.com/jalasoft), passionate about **technology** and **education**, with interest in **Artificial Intelligence**. I also work as a teacher, creating solutions that combine technology and pedagogy.
 
 💡 **My mission:** Use technology to improve education, creating tools that help with learning and student engagement.
 
