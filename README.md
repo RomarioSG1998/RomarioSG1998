@@ -19,7 +19,7 @@
 
 ### 🌐 Live Projects
 
-[![Database Modeling Platform](https://img.shields.io/badge/🗄️_Database_Modeling-Live-success?style=for-the-badge)]([https://my-own-database-modeling-platform.vercel.app](https://romaarionexusdb.vercel.app/)
+[![SintaxJavaApp](https://img.shields.io/badge/NexusDB-red?style=for-the-badge)](https://romaarionexusdb.vercel.app/)
 [![SintaxJavaApp](https://img.shields.io/badge/📚_SintaxJavaApp-Portfolio-blue?style=for-the-badge)](https://romariosg1998.github.io/apresentacao_pedagogia/)
 [![PIBID Net Uneal](https://img.shields.io/badge/🎓_PIBID_Net_Uneal-Live-success?style=for-the-badge)](https://pibid-net-uneal.vercel.app/)
 [![EnglishFlix](https://img.shields.io/badge/🌐_EnglishFlix-Live-success?style=for-the-badge)](https://englishflix-beta.vercel.app/)
